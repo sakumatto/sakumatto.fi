@@ -1,0 +1,157 @@
+## GLOBAL ##
+- id: "global.home"
+  translation: "Etusivu"
+
+- id: "global.categories"
+  translation: "Aihealueet"
+
+- id: "global.category"
+  translation: "Aihealue"
+
+- id: "global.tags"
+  translation: "Avainsanat"
+
+- id: "global.tag"
+  translation: "Avainsana"
+
+- id: "global.archives"
+  translation: "Arkistot"
+
+- id: "global.search"
+  translation: "Haku"
+
+- id: "global.about"
+  translation: "Taustoja"
+
+- id: "global.author_picture"
+  translation: "Kirjoittajan kuva"
+
+- id: "global.share_on"
+  translation: "Jaa täällä: %s"
+
+- id: "global.mail"
+  translation: "Email"
+
+- id: "global.rss"
+  translation: "RSS"
+
+- id: "global.search_category"
+  translation: "Haku aihealueista"
+
+- id: "global.search_tag"
+  translation: "Hae avainsanaa"
+
+- id: "global.search_date"
+  translation: "Hae pvm (YYYY/MM/DD)"
+
+## GLOBAL.POST_FOUND ##
+- id: "global.posts_found.zero"
+  translation: "ei löytynyt artikkelia"
+
+- id: "global.posts_found.one"
+  translation: "Yksi artikkeli löytyi"
+
+- id: "global.posts_found.other"
+  translation: "{n} artikkelia löytyi"
+
+## GLOBAL.CATEGORIES_FOUND ##
+- id: "global.categories_found.zero"
+  translation: "yhtään aihealuetta ei löytynyt"
+
+- id: "global.categories_found.one"
+  translation: "Yksi aihealue löytyi"
+
+- id: "global.categories_found.other"
+  translation: "{n} aihealuetta löytyi"
+
+## GLOBAL.TAGS_FOUND ##
+- id: "global.tags_found.zero"
+  translation: "Yhtään avainsanaa ei löytynyt"
+
+- id: "global.tags_found.one"
+  translation: "Yksi avainsana löytyi"
+
+- id: "global.tags_found.other"
+  translation: "{n} avainsanaa löytyi"
+
+## PAGINATION ##
+- id: "pagination.page"
+  translation: "sivu {{ .Paginator.PageNumber }}"
+
+- id: "pagination.of"
+  translation: "/ {{ .Paginator.TotalPages }}"
+
+- id: "pagination.newer_posts"
+  translation: "UUDEMMAT"
+
+- id: "pagination.older_posts"
+  translation: "VANHEMMAT"
+
+- id: "pagination.previous"
+  translation: "EDELLINEN"
+
+- id: "pagination.next"
+  translation: "SEURAAVA"
+
+## POST ##
+- id: "post.no_title"
+  translation: "Ei otsikko"
+
+- id: "post.categorized_in"
+  translation: "aihealueessa"
+
+- id: "post.tagged_in"
+  translation: "Hakusanana täällä:"
+
+- id: "post.toc"
+  translation: "Sisällysluettelo"
+
+- id: "post.read_more"
+  translation: "Jatka lukemista"
+
+- id: "post.go_to_website"
+  translation: "Siirry sivustolle"
+
+- id: "post.comment_and_share"
+  translation: "Kommentoi ja jaa"
+
+## FOOTER ##
+- id: "footer.all_rights_reserved"
+  translation: "Kaikki oikeudet pidätetään"
+
+## DATE ##
+- id: "date.month.january"
+  translation: "Tammikuu"
+
+- id: "date.month.february"
+  translation: "Helmikuu"
+
+- id: "date.month.march"
+  translation: "Maaliskuu"
+
+- id: "date.month.april"
+  translation: "Huhtikuu"
+
+- id: "date.month.may"
+  translation: "Toukokuu"
+
+- id: "date.month.june"
+  translation: "Kesäkuu"
+
+- id: "date.month.july"
+  translation: "Heinäkuu"
+
+- id: "date.month.august"
+  translation: "Elokuu"
+
+- id: "date.month.september"
+  translation: "Syyskuu"
+
+- id: "date.month.october"
+  translation: "Lokakuu"
+
+- id: "date.month.november"
+  translation: "Marraskuu"
+
+- id: "date.month.december"
+  translation: "Joulukuu"

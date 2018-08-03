@@ -1,0 +1,30 @@
+{{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
+{{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
+
+<form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Nimesi</label>
+    <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="name"/>
+<br />
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Puhelinnumerosi (halutessasi)</label>
+    <input type="text" id="name" name="tele" class="{{ $.Scratch.Get "inputClasses" }}"  placeholder=" "  aria-labelledby="telephone"/>
+<br />
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Emailisi</label>
+    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>
+    <div class="requirements f6 gray glow i ph3 overflow-hidden">
+      Ymmärrettävällä tavalla email-osoite on pakollinen tieto.
+    </div>
+<br />
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Viestisi</label>
+    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
+
+    <input class="db w-150 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Lähetä" />
+
+    <input type="hidden" name="_next" value="https://sakumatto.fi/laillisuusasiat/kiitos/" />
+    <input type="hidden" name="_subject" value="[sakumatto.fi] Viestilomake" />
+    <input type="hidden" name="_language" value="fi" />
+    <input type="hidden" name="_format" value="plain" />
+</form>
+
+<p>Tietosuoja</p>
+<p>Lähettämällä kyselysi tällä lomakkeella sitoudut <a href="/laillisuusasiat/tietosuoja/">tietosuojalausekkeemme</a> vaatimuksiin.</p>

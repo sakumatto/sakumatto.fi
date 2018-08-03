@@ -1,0 +1,22 @@
+---
+title: YK:n virkamiehet huolissaan ilmastonmuutoksen vaikutuksista ja niiden torjunnan riittämättömyydestä
+author: saku
+type: post
+date: 2017-10-13T07:19:36+00:00
+#url: /?p=2456
+
+aihealueet:
+  - Ekologia ja ympäristön tila
+
+---
+Ilmastonmuutoksen laajat ja huolestuttavat vaikutukset olivat aamun lehden yleisön osaston aiheena kautta maailman tänä aamun kun YK:n korkea-arvoiset virkamiehet Achim Steiner, Patricia Espinosa ja Robert Galasser yhteisessä kirjoituksessaan tänä kansainvälisen luonnononnettomuksien päivänä he vaativat kokonaisvaltaista suhtautumista kaikkiin näihin riskeihin: köyhyyteen, nopeaan kaupungistumiseen, heikkoon maankäytön suunnitteluun, ja muihin riskitekijöihin, jotka kaikki moninkertaistavat heidän mukaansa ilmastonmuutoksen vaikutukset.
+
+Vaatimukseen on helppo yhtyä. Pelkästään Suomessa on nyt lokakuussa saatu esimakua kasvavista sademääristä, jotka ovat yksi ilmastonmuutoksen vaikutuksista. Turun väylän patoaminen varusmiesten voimin ja kahden ajokaistan sulkeminen moottoritieltä tulee olemaan pientä siihen verrattuna mihin ilmastonmuutos koko ihmiskunnan väistämättä johtaa.
+
+Olen jo vuodesta 2003 pitäen luennoinut siitä, että ainoa tapa ratkaista globaalit ongelmat on uuden ajattelun omaksuminen ja se on jakamisen periaatteen hyväksyminen koko ihmiskunnan kesken. Kilpailuyhteiskunta ei kykene vastaamaan ilmastonmuutoksen ja sodan ja nälänhädän mittaluokan ongelmiin, vaan tarvitaan kokonaisvaltainen ajatusmallin muutos. On luotava perusta yhteistyölle ja se perusta on luotavissa vain luomalla luottamus neuvottelukumppaneiden välillä. Ja luottamus tulee vain siitä, että neuvotteluissa ovat edes jollain tavalla tasaveroiset osallistujat. Kun toisella ei ole mitään ja toisella taas yltäkylläisyys, on mahdotonta pitää neuvottelijoita tasa-arvoisina. Ja siksi planeetan resurssien oikeudenmukainen jakaminen on tarpeen.
+
+Steiner, Espinosa ja Glasser kirjoittavat, että viimeisen 25 vuoden aikana merenpinta on jo noussut yhteensä 85 mm, seikka joka tiedetään Topex-Poseidon-satelliittien ansiosta. Jos sama tahti jatkuu (edes näin hitaana, mutta nousukin kiihtyy varmasti jos muutos ilmastossa jatkuu sen johdosta että olemme kyvyttömiä ratkaisemaan ilmastonmuutosta) luvassa on lähes 20 cm kohoaminen vuosisadan puoliväliin mennessä. Kohoavat ilman lämpötilat sitovat lisää kosteutta ja lisäävät osaltaan sateita ja niiden tuottoa. Kohoavat merenpinnat ja lisääntyneet sademäärät ovat kohtalokas yhdistelmä.
+
+<img src="https://lh3.googleusercontent.com/e-qtYZ1UWfF4pcz23qNYjkj2pj1ZPltzlUbl_Pj1zzjqVptz3pdlVV0Bwa382cCUjL2XPaU_8tElmfEfFS6bVvnlXE0k8PRdMqjxP2bC9Rsov2S66Q7B_P3VnDzY1Um9BPqjUO8w-3iY0839I-CaHF33Qp4yny3ZvaCoJKWONQgesqSZj7Foenc1UqrfnUb3xhK33sIT6m9iv35pbhuhDpDjsM16t_HLIw1aurbxnxbSG3wa4Nren6OMdFPOmA_Kkb4SqZ9Zr2C0d7jXfsuT8ny3jaQazx6W6n7rvPfjqd0oT5AcAxcOEbeeoSHJEIjXvRQKBftR9oztKbWpDJg6lQKu-FbCEiqwlRWZ2kUBjdtQKEW3Fs_rTLwwS_szatSRgbqAh5h_6TWB8-JHY2utAhM08xP9LOcSWk45ZO-us1hvxN0n7Rs1z20jM8f5E_uD7B_epGSG7BAa0Fb3hU4BsnH72e8nRQfsaZeOBaa8sPTmG_q8PcBrIUNBO6YIy2ACv26KD-JHaQvh5voOVT-4vmhOQShQWjSKlSK320r_zZ10zZdgkcK6_9fNDVUQhHl2Gr3sChqEiRPU9YEXpeSA7VdbsT1BXWJ1sxfqbE0=w800-h539-no" alt="" width="800" height="539" class="aligncenter size-full wp-image-2457" />
+  
+Lähteet: <a href="http://www.themalaymailonline.com/what-you-think/article/climate-change-threat-to-rich-and-poor-alike-achim-steiner-patricia-espinos#dFyRK5KCBo4HTFly.97" rel="noopener" target="_blank">http://www.themalaymailonline.com/what-you-think/article/climate-change-threat-to-rich-and-poor-alike-achim-steiner-patricia-espinos#dFyRK5KCBo4HTFly.97</a>, <a href="http://www.myrepublica.com/news/author/2430" rel="noopener" target="_blank">http://www.myrepublica.com/news/author/2430</a>, <a href="https://www.pressreader.com/philippines/the-philippine-star/20171012/281655370295063" rel="noopener" target="_blank">https://www.pressreader.com/philippines/the-philippine-star/20171012/281655370295063</a>, <a href="http://www.philstar.com/opinion/2017/10/12/1747917/climate-change-threat-rich-and-poor-alike" rel="noopener" target="_blank">http://www.philstar.com/opinion/2017/10/12/1747917/climate-change-threat-rich-and-poor-alike</a>, <a href="https://nakoislehti.hs.fi/65a5eff0-3036-4d6b-b906-3f280b477120/54" rel="noopener" target="_blank">https://nakoislehti.hs.fi/65a5eff0-3036-4d6b-b906-3f280b477120/54</a>, <a href="http://www.thehindu.com/opinion/op-ed/averting-disaster/article19847464.ece" rel="noopener" target="_blank">http://www.thehindu.com/opinion/op-ed/averting-disaster/article19847464.ece</a>

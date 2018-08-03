@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yhteistyö on </title>
+    <link>/avainsanat/yhteisty%C3%B6/</link>
+    <description>Recent content in Yhteistyö on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    <lastBuildDate>Sat, 21 Feb 2009 12:30:42 +0000</lastBuildDate>
+    
+	<atom:link href="/avainsanat/yhteisty%C3%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autoteollisuuden ahdinko kuvastaa itsekkyyttä liike-elämässä</title>
+      <link>/blogi/2009-02-21-autoteollisuuden-ahdinko-kuvaa-itsekkyytta-liike-elamassa/</link>
+      <pubDate>Sat, 21 Feb 2009 12:30:42 +0000</pubDate>
+      
+      <guid>/blogi/2009-02-21-autoteollisuuden-ahdinko-kuvaa-itsekkyytta-liike-elamassa/</guid>
+      <description>Kolme suurta amerikkalaista autovalmistajaa ovat syvässä suossa, mutta niin on tuotantojohtaja Toyotakin. Suhteellisesti paremmin menee ehkä vielä VW-konsernilla, joka pystyy sisäisesti toteuttamaan sitä yhteistyömallia, joka on osoittautunut autoteollisuudelle elinehtoisen tärkeäksi.
+Kyse on autoteollisuuden (ja kaiken nykyteollisuuden) monimutkaisuudesta, jossa yhden uuden mallin teko ei tänä päivänä ole enää yhtä suoraviivaista kuin vaikkapa 50 vuotta sitten, jolloin autovalmistajat tulivat toimeen omillaan ja saattoivat kilpailla omillaan – kaikki kaikkia vastaan. Kun ajat muuttuivat ja tekniikka monimutkaistui ja kun autoilta vaadittiin aina vain parempaa turvallisuutta ja monisyisempää tekniikkaa, kävi ilmeiseksi, ettei yksittäinen valmistaja enää pärjännyt omillaan: syntyi pakkoliittoja heikompien kesken ja harvat edelläkävijät jäivät henkiin saamansa etumatkan turvin.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kko on </title>
+    <link>/avainsanat/kko/</link>
+    <description>Recent content in Kko on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    <lastBuildDate>Tue, 09 Dec 2008 08:01:00 +0000</lastBuildDate>
+    
+	<atom:link href="/avainsanat/kko/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KKO sallii poikien vahingoittamisen</title>
+      <link>/blogi/2008-12-09-kko-sallii-poikien-vahingoittamisen/</link>
+      <pubDate>Tue, 09 Dec 2008 08:01:00 +0000</pubDate>
+      
+      <guid>/blogi/2008-12-09-kko-sallii-poikien-vahingoittamisen/</guid>
+      <description>&amp;#8220;A oli suorituttanut lääkärillä neljän ja puolen vuoden ikäiselle pojalleen ympärileikkauksen uskonnollisista syistä. Korkeimman oikeuden tuomiosta ilmenevillä perusteilla katsottiin, että A:n menettely ei ollut rangaistavaa pahoinpitelynä tai siihen yllytyksenä.&amp;#8221; Näin viattomilla sanoilla Suomen korkein oikeusaste sallii pienten lasten turhan silpomisen.
+Asiassa Tampereen käräjäoikeus tuomitsi lääkärin, oikein, pahoinpitelystä, mutta hovioikeus ja korkein oikeus ovat molemmat asiassa eri mieltä kuin syyttämispäätöksen tehnyt syyttäjä. KKO perustelee tuomiotaan uskonnon syillä näin: &amp;#8220;Tässä asiassa on kysymys muslimipojan ympärileikkauksesta.</description>
+    </item>
+    
+  </channel>
+</rss>

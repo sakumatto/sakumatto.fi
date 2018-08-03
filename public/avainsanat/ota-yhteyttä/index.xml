@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ota Yhteyttä on </title>
+    <link>/avainsanat/ota-yhteytt%C3%A4/</link>
+    <description>Recent content in Ota Yhteyttä on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    <lastBuildDate>Thu, 19 Jul 2018 14:25:30 +0300</lastBuildDate>
+    
+	<atom:link href="/avainsanat/ota-yhteytt%C3%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ota yhteyttä Sakuun</title>
+      <link>/laillisuusasiat/ota-yhteytta/</link>
+      <pubDate>Thu, 19 Jul 2018 14:25:30 +0300</pubDate>
+      
+      <guid>/laillisuusasiat/ota-yhteytta/</guid>
+      <description>Täytä ystävällisesti alla näkyvä lomake ja ota siten yhteyttä Sakuun.
+Nimesi Puhelinnumerosi (halutessasi) Emailisi Ymmärrettävällä tavalla email-osoite on pakollinen tieto.  Viestisi   Tietosuoja
+Lähettämällä kyselysi tällä lomakkeella sitoudut tietosuojalausekkeemme vaatimuksiin.</description>
+    </item>
+    
+  </channel>
+</rss>

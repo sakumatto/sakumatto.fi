@@ -1,0 +1,18 @@
+{{ partial "head.html" . }}
+  <body>
+    <div id="blog">
+      {{ partial "header.html" . }}
+      {{ partial "sidebar.html" . }}
+      {{ partial "post/header-cover.html" . }}
+      <div id="main">
+        <section class="postShorten-group main-content-wrap">
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+          {{ range $paginator.Pages }}
+            {{ .Render "summary" }}
+          {{ end }}
+          {{ partial "pagination.html" . }}
+        </section>
+        {{ partial "footer.html" . }}
+      </div>
+    </div>
+{{ partial "foot.html" . }}

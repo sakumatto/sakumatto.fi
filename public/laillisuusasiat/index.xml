@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laillisuusasiats on </title>
+    <link>/laillisuusasiat/</link>
+    <description>Recent content in Laillisuusasiats on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    <lastBuildDate>Thu, 19 Jul 2018 14:25:30 +0300</lastBuildDate>
+    
+	<atom:link href="/laillisuusasiat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ota yhteyttä Sakuun</title>
+      <link>/laillisuusasiat/ota-yhteytta/</link>
+      <pubDate>Thu, 19 Jul 2018 14:25:30 +0300</pubDate>
+      
+      <guid>/laillisuusasiat/ota-yhteytta/</guid>
+      <description>Täytä ystävällisesti alla näkyvä lomake ja ota siten yhteyttä Sakuun.
+Nimesi Puhelinnumerosi (halutessasi) Emailisi Ymmärrettävällä tavalla email-osoite on pakollinen tieto.  Viestisi   Tietosuoja
+Lähettämällä kyselysi tällä lomakkeella sitoudut tietosuojalausekkeemme vaatimuksiin.</description>
+    </item>
+    
+    <item>
+      <title>Tietosuoja</title>
+      <link>/laillisuusasiat/tietosuoja/</link>
+      <pubDate>Thu, 24 May 2018 09:25:35 +0300</pubDate>
+      
+      <guid>/laillisuusasiat/tietosuoja/</guid>
+      <description>Keitä olemme Verkkosivustomme osoite on: https://sakumatto.fi. Sivun ylläpitäjä olen minä, Saku Mättö. Tämä on henkilökohtainen blogini.
+Mitä henkilötietoa keräämme ja miksi Kommentit Kun sivuston käyttäjät jättävät kommentteja sivustolle, keräämme kommenttilomakkeessa olevat tiedot, sekä käyttäjän IP-osoitteen ja selaimen versiotiedot roskaviestien tunnistamisen helpottamiseksi.
+Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka on näkyvissä kommentointikentissä, IP-osoitteen sekä selaimen versioon liittyvät tiedot. Sähköpostiosoitteesta luotu anonymisoitu hajautustieto (hash) voidaan lähettää Gravatar-palveluun, jotta tiedetään onko kommentoija palvelun käyttäjä.</description>
+    </item>
+    
+    <item>
+      <title>Kiitos</title>
+      <link>/laillisuusasiat/kiitos/</link>
+      <pubDate>Thu, 24 May 2018 09:25:30 +0300</pubDate>
+      
+      <guid>/laillisuusasiat/kiitos/</guid>
+      <description>Kiitos viestistäsi Sakulle Viestisi on nyt onnistuneesti välitetty eteenpäin.
+Mukavaa jatkoa toivottaen!
+- Saku</description>
+    </item>
+    
+  </channel>
+</rss>
