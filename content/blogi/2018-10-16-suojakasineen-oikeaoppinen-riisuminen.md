@@ -1,6 +1,6 @@
 ---
 title: "Miten suojakäsineen saa pois ilman sottaamista?"
-date: 2018-10-16T07:54:31+03:00
+date: 2018-10-16T07:51:31+03:00
 author: saku
 type: post
 
