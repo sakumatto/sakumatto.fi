@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drive on </title>
-    <link>/avainsanat/drive/</link>
+    <link>https://sakumatto.fi/avainsanat/drive/</link>
     <description>Recent content in Drive on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
     <lastBuildDate>Thu, 27 Feb 2014 13:36:15 +0000</lastBuildDate>
     
-	<atom:link href="/avainsanat/drive/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sakumatto.fi/avainsanat/drive/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kolmas motivoiva voima</title>
-      <link>/blogi/2014-02-27-kolmas-motivoiva-voima/</link>
+      <link>https://sakumatto.fi/blogi/2014-02-27-kolmas-motivoiva-voima/</link>
       <pubDate>Thu, 27 Feb 2014 13:36:15 +0000</pubDate>
       
-      <guid>/blogi/2014-02-27-kolmas-motivoiva-voima/</guid>
+      <guid>https://sakumatto.fi/blogi/2014-02-27-kolmas-motivoiva-voima/</guid>
       <description>Ihmisiä ajaa toimeen kolme perusvoimaa. Kirjassaan &amp;#8220;Drive&amp;#8221; amerikkalainen Daniel H. Pink esittää, että 1800- ja 1900- lukujen porkkana ja keppi eivät nykyisellä tavalla organisoituneessa yhteiskunnassa enää ole motivoivia tekijöitä. Pinkin mukaan nykyään toimiva ns. Kolmas motivoiva voima on syvältä sisimmästämme kumpuava halu itse ohjata elämämme kulku, laajentaa ja levittää osaamistamme sekä ja ennen kaikkea, elää tarkoituksenmukaista elämää. &amp;#8212; Drive: The Surprising Truth About What Motivates Us
 Kolmas motivoiva voima ja kaksi aiempaa motivoivaa voimaa sekä nykyaika Pink kuvaa kuinka varsin luonnollisesti historian ihminen (ja tietyissä tilanteissä nykyihminenkin) löytää motivaation puhtaan biologisista tarpeista.</description>
     </item>

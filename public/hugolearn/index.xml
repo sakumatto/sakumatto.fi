@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugolearns on </title>
-    <link>/hugolearn/</link>
+    <link>https://sakumatto.fi/hugolearn/</link>
     <description>Recent content in Hugolearns on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
     
-	<atom:link href="/hugolearn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sakumatto.fi/hugolearn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/hugolearn/muista/</link>
+      <link>https://sakumatto.fi/hugolearn/env/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/hugolearn/muista/</guid>
+      <guid>https://sakumatto.fi/hugolearn/env/</guid>
+      <description>HUGO_ENV = &amp;ldquo;development&amp;rdquo; ########################### DEV {{ if eq (getenv &amp;ldquo;HUGO_ENV&amp;rdquo;) &amp;ldquo;development&amp;rdquo; }} baseURL = &amp;quot;localhost:1313&amp;quot; title = &amp;quot;LOCAL: &amp;quot; {{ end }}  ########################### STAGING {{ if eq (getenv &amp;ldquo;HUGO_ENV&amp;rdquo;) &amp;ldquo;staging&amp;rdquo; }} baseURL = &amp;ldquo;https://stage-sakumatto-fi.firebaseapp.com&amp;quot; title = &amp;ldquo;STAGING: Holistinen katsaus yhteiskuntaan ja elämään sekä puheenvuoro jakamisen periaatteen puolesta&amp;rdquo; disqusShortname = &amp;ldquo;sakumatto&amp;rdquo;
+{{ end }} ########################### PRODUCTION {{ if eq (getenv &amp;ldquo;HUGO_ENV&amp;rdquo;) &amp;ldquo;production&amp;rdquo; }} baseURL = &amp;ldquo;https://sakumatto.fi&amp;quot; title = &amp;ldquo;Holistinen katsaus yhteiskuntaan ja elämään sekä puheenvuoro jakamisen periaatteen puolesta&amp;rdquo; disqusShortname = &amp;ldquo;sakumatto&amp;rdquo; googleAnalytics = &amp;ldquo;UA-26834518-1&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sakumatto.fi/hugolearn/muista/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sakumatto.fi/hugolearn/muista/</guid>
       <description>https://medium.com/@jeffmcmorris/tips-and-tricks-for-building-a-theme-in-hugo-4806bdd747d7</description>
     </item>
     

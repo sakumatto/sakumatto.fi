@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laillisuusasiat on </title>
-    <link>/aihealueet/laillisuusasiat/</link>
+    <link>https://sakumatto.fi/aihealueet/laillisuusasiat/</link>
     <description>Recent content in Laillisuusasiat on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
     <lastBuildDate>Thu, 19 Jul 2018 14:25:30 +0300</lastBuildDate>
     
-	<atom:link href="/aihealueet/laillisuusasiat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sakumatto.fi/aihealueet/laillisuusasiat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ota yhteyttä Sakuun</title>
-      <link>/laillisuusasiat/ota-yhteytta/</link>
+      <link>https://sakumatto.fi/laillisuusasiat/ota-yhteytta/</link>
       <pubDate>Thu, 19 Jul 2018 14:25:30 +0300</pubDate>
       
-      <guid>/laillisuusasiat/ota-yhteytta/</guid>
+      <guid>https://sakumatto.fi/laillisuusasiat/ota-yhteytta/</guid>
       <description>Täytä ystävällisesti alla näkyvä lomake ja ota siten yhteyttä Sakuun.
 Nimesi Puhelinnumerosi (halutessasi) Emailisi Ymmärrettävällä tavalla email-osoite on pakollinen tieto.  Viestisi   Tietosuoja
 Lähettämällä kyselysi tällä lomakkeella sitoudut tietosuojalausekkeemme vaatimuksiin.</description>
@@ -24,10 +24,10 @@ Lähettämällä kyselysi tällä lomakkeella sitoudut tietosuojalausekkeemme va
     
     <item>
       <title>Tietosuoja</title>
-      <link>/laillisuusasiat/tietosuoja/</link>
+      <link>https://sakumatto.fi/laillisuusasiat/tietosuoja/</link>
       <pubDate>Thu, 24 May 2018 09:25:35 +0300</pubDate>
       
-      <guid>/laillisuusasiat/tietosuoja/</guid>
+      <guid>https://sakumatto.fi/laillisuusasiat/tietosuoja/</guid>
       <description>Keitä olemme Verkkosivustomme osoite on: https://sakumatto.fi. Sivun ylläpitäjä olen minä, Saku Mättö. Tämä on henkilökohtainen blogini.
 Mitä henkilötietoa keräämme ja miksi Kommentit Kun sivuston käyttäjät jättävät kommentteja sivustolle, keräämme kommenttilomakkeessa olevat tiedot, sekä käyttäjän IP-osoitteen ja selaimen versiotiedot roskaviestien tunnistamisen helpottamiseksi.
 Kun vierailijat jättävät kommentin tälle sivustolle keräämme tiedon, joka on näkyvissä kommentointikentissä, IP-osoitteen sekä selaimen versioon liittyvät tiedot. Sähköpostiosoitteesta luotu anonymisoitu hajautustieto (hash) voidaan lähettää Gravatar-palveluun, jotta tiedetään onko kommentoija palvelun käyttäjä.</description>

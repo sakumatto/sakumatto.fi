@@ -17,14 +17,13 @@ Jucelino Nóbrega da Luz and Ann Kristin Espefjord visited Helsinki in October 2
 
 Video 1, **Ann Kristin Espefjord introduces the Brasilian dreamer, Jucelino da Luz**. Jucelino has sent over 99,000 letters that are based on his dreams. Espefjord is a journalist who has gone to the extent of verifying some of those letters as fully authentic. So the question is obvious: how can eg. a dream in 1998 and a letter based on that dream that was sent to the Norwegian embassy in Brasil contain specific information about the <a href="http://en.wikipedia.org/wiki/2011_Norway_attacks" target="_blank" rel="nofollow">Utøya tragedy</a> of 2011, the <a href="http://en.wikipedia.org/wiki/Boston_Marathon_bombings" target="_blank" rel="nofollow">Boston marathon terror attack of 2013</a> and many more such seemingly impossible predictions. See for yourself.
   
-[Youtube](https//www.youtube.com/embed/TZS4iJpIi4M?rel=0)
 
+<a target="_blank" href="https://www.youtube.com/embed/TZS4iJpIi4M?rel=0">Watch on Youtube</a>
 &nbsp;
 
 Video 2,  **The Brasilian dreamer, Jucelino da Luz**. Jucelino has sent over 99,000 letters that are based on his dreams. In this video he clearly states that we do not have until 2020 to cut C=2 emissions. In fact, he states, by 2021–2023 we might experience temperatures of 63 C, if we do not react. His message is of hope and of mutual responsibility and yet in his voice there is an urgency that can not be neglected. See below for yourself.
   
-[Youtube](https://www.youtube.com/embed/CXp2odOOf-s?rel=0)
-  
-More videos are added as they are ready for publishing.
 
-<a title="Megatsunami: Jucelino Nóbrega da Luz – luentovideo Balder-salilla 6.10.2013" href="https://sakumatto.fi/jucelino-nobrega-da-luz-luentovideo-balder-salilla-6-10-2013/" target="_blank">Jucelino-videot suomeksi</a>.
+<a target="_blank" href="https://www.youtube.com/embed/CXp2odOOf-s?rel=0">Watch on Youtube in original Portuguese</a>
+
+<a title="Megatsunami: Jucelino Nóbrega da Luz – luentovideo Balder-salilla 6.10.2013" href="/blogi/2013-10-25-jucelino-nobrega-da-luz-luentovideo-balder-salilla-6-10-2013/">Jucelino-videot suomeksi</a>.

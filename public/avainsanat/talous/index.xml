@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talous on </title>
-    <link>/avainsanat/talous/</link>
+    <link>https://sakumatto.fi/avainsanat/talous/</link>
     <description>Recent content in Talous on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fi-fi</language>
     <lastBuildDate>Thu, 23 Oct 2008 10:30:52 +0000</lastBuildDate>
     
-	<atom:link href="/avainsanat/talous/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sakumatto.fi/avainsanat/talous/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Johtajatkin ovat – inhimillisin ominaisuuksin varustettuja – ihmisiä</title>
-      <link>/blogi/2008-10-23-johtajatkin-ovat-inhimillisin-ominaisuuksin-varustettuja-ihmisia/</link>
+      <link>https://sakumatto.fi/blogi/2008-10-23-johtajatkin-ovat-inhimillisin-ominaisuuksin-varustettuja-ihmisia/</link>
       <pubDate>Thu, 23 Oct 2008 10:30:52 +0000</pubDate>
       
-      <guid>/blogi/2008-10-23-johtajatkin-ovat-inhimillisin-ominaisuuksin-varustettuja-ihmisia/</guid>
+      <guid>https://sakumatto.fi/blogi/2008-10-23-johtajatkin-ovat-inhimillisin-ominaisuuksin-varustettuja-ihmisia/</guid>
       <description>Me kaikki olemme samanlaisia. Meillä on sisäänrakennettu halu elää onnellisena ja rauhassa; rauhassa sodalta ja rauhassa vainolta sekä väkivallalta. Kuitenkin tämän päivän tiukassa puristuksessa me koemme, entistä enemmän, olevamme yksin suurten ongelmien edessä ja lähes niiden tukehduttamia.
 Kuitenkin juuri suurten vastusten edessä ihmiskunta on ennenkin osoittanut suuren yhteisponnistuksen voiman ja me suomalaisetkin onnistuimme parissa vuodessa asuttamaan yli 400.000 evakkoa, kun oli pakko. Mutta yhteisponnistus on juuri sitä miltä se kuulostaa, se on yhteiseen hiileen puhaltamista ja erityisesti omien persoonallisten intressien pakotteesta luopumista jonkin suuremman velvoitteen edessä.</description>
     </item>
