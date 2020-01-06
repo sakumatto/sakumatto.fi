@@ -11,4 +11,10 @@ aihealueet:
 avainsanat:
 
 ---
-Kun kaikki normaaliksi koettu sortuu ympärillä, luulisi olevan helppoa tehdä johtopäätös, että vanhat tavat eivät enää toimi. Silti <em>kaikki</em> suuret linjaukset maassamme tehdään kilpailukyvyn tai muun rahaperusteen tukeen nojautuen.
+Kun kaikki normaaliksi koettu sortuu ympärillä, luulisi olevan helppoa tehdä johtopäätös, että vanhat tavat eivät enää toimi. Silti <em>kaikki</em> suuret linjaukset maassamme tehdään kilpailukyvyn tai muun rahaperusteen tukeen nojautuen. Sote-palveluita kiristetään ja karsitaan kun rahaa ei ole ja samalla rahaa on kuitenkin palkita erinäisiä päättäviä tahoja. Luonnon suojelu alistetaan taloudellisen edun alttarille ja inhimilliset perusoikeudet syrjäytetään milloin tahansa, jos "rahaa ei ole".
+
+Tämän kaiken seurauksena syntyy eriarvoisuuden kehityskulku, jonka olemme jo nähneet johtamassa pakolaisaaltoihin ja terrorismin muuttumiseksi arkipäiväksi.
+
+"The definition of insanity is doing the same thing over and over again and expecting a different result."
+
+Miksi päättäjämme sekä yritysjohtajamme eivät muuta toimintaansa, kun sokea reettakin näkee, että nykyinen suunta johtaa syveneviin kriiseihin ja suoranaiseen umpikujaan?
