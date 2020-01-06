@@ -1,9 +1,9 @@
 ---
 title: Sakun kotisivu
 author: saku
-type: post
+type: page
 date: 2020-01-01T18:30:01+00:00
-excerpt: Meidän itse ja edustajiemme tulee toimia kansan edun hyväksi konsensuksen keinoin. Vain olemalla valmis myönnytyksiin ja todelliseen oikeudenmukaisuuteen tähtääviin ratkaisuihin, voimme ratkaista nykyiset ongelmamme ja varsinkin yhteiskunnan monimutkaistumisen johdosta eteemme tulevat huomisen haasteet.
+
 
 
 aihealueet:
@@ -15,6 +15,8 @@ Kun kaikki normaaliksi koettu sortuu ympärillä, luulisi olevan helppoa tehdä 
 
 Tämän kaiken seurauksena syntyy eriarvoisuuden kehityskulku, jonka olemme jo nähneet johtamassa pakolaisaaltoihin ja terrorismin muuttumiseksi arkipäiväksi.
 
-"The definition of insanity is doing the same thing over and over again and expecting a different result."
+"Hulluutta on se, että tekee samat asiat uudelleen ja uudelleen ja odottaa eri tuloksia."
 
 Miksi päättäjämme sekä yritysjohtajamme eivät muuta toimintaansa, kun sokea reettakin näkee, että nykyinen suunta johtaa syveneviin kriiseihin ja suoranaiseen umpikujaan?
+
+Meidän itse ja edustajiemme tulee toimia kansan edun hyväksi konsensuksen keinoin. Vain olemalla valmis myönnytyksiin ja todelliseen oikeudenmukaisuuteen tähtääviin ratkaisuihin, voimme ratkaista nykyiset ongelmamme ja varsinkin yhteiskunnan monimutkaistumisen johdosta eteemme tulevat huomisen haasteet.
