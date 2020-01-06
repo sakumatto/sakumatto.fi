@@ -1,7 +1,7 @@
 ---
 title: Sakun kotisivu
 author: saku
-type: page
+type: post
 date: 2020-01-01T18:30:01+00:00
 
 
