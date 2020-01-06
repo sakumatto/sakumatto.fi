@@ -55,24 +55,30 @@ canonifyurls = true
   url = "/"
 [[menu.main]]
   weight = 2
+  identifier = "blogi"
+  name = "Blogi"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  url = "/blogi"
+[[menu.main]]
+  weight = 3
   identifier = "categories"
   name = "Aihealueet"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/aihealueet"
 [[menu.main]]
-  weight = 3
+  weight = 4
   identifier = "tags"
   name = "Avainsanat"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "avainsanat"
 [[menu.main]]
-  weight = 4
+  weight = 5
   identifier = "arkistot"
   name = "Arkistot"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/arkistot"
 [[menu.main]]
-  weight = 5
+  weight = 6
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
