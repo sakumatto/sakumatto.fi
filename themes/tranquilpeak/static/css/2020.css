@@ -16,9 +16,9 @@ font-weight:700}
 #about,#blog,#cover,#header,body,pre>code,table{
 width:100%}
 
-#about,#sidebar{
+/* #about,#sidebar{
 background:rgba(17,26,35,0)}
-
+*/
 #header,.post-header-cover{
 -webkit-backface-visibility:hidden;-webkit-perspective:1000}
 
