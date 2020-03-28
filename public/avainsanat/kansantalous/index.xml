@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kansantalous on </title>
+    <link>https://sakumatto.fi/avainsanat/kansantalous/</link>
+    <description>Recent content in kansantalous on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-fi</language>
+    <lastBuildDate>Mon, 20 Sep 2010 07:10:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://sakumatto.fi/avainsanat/kansantalous/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tuottavuuden mittarit eivät toimi oikein</title>
+      <link>https://sakumatto.fi/blogi/2010-09-20-tuottavuuden-mittarit-eivat-toimi-oikein/</link>
+      <pubDate>Mon, 20 Sep 2010 07:10:32 +0000</pubDate>
+      
+      <guid>https://sakumatto.fi/blogi/2010-09-20-tuottavuuden-mittarit-eivat-toimi-oikein/</guid>
+      <description>Öljyäkin on vain rajallinen määrä, miksei sitä hinnoitella vastaavasti?Nähdäkseni tuottavuuden käyttämistä nykyisentapaisena ja yksinomaisena mittarina esimerkiksi toimialojen välisessä vertailussa on harhaanjohtavaa. Työssä käyvän ihmisen panos kun on sama alasta riippumatta, koska ihminen tekee työtä saman tuntimäärän ja näennäinen tuottavuus on saavutettu väärällä hinnoittelulla planeetan luonnonvarojen rajallisten varantojen kustannuksella. Olisi siis ymmärrettävä tuottavuuden nykymittaustavan valheellisuus kustannusten mittarina: kun sanotaan, että tuottavuus joillain vientialoilla on kasvanut sodan jälkeen ja verrataan toisiin aloihin, joissa “ollaan jääty jälkeen”, puhutaan mielestäni kritiikittömästi ja unohtaen resurssien kuluminen.</description>
+    </item>
+    
+  </channel>
+</rss>

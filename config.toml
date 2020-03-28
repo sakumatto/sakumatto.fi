@@ -234,3 +234,35 @@ canonifyurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+
+ [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2

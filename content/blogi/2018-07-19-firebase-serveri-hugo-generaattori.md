@@ -29,8 +29,8 @@ Tehokas sivusto on siis ympäristöteko ja säästää ehkä jopa rahaa.
 
 Tämän oman sivustoni siirsin Hugo+Firebaselle eilen. Nopeus kasvoi dramaattisesti. Nyt sivuston hosting on ilmaista ja energiaa säästyy, ja sinä lukijani näet vastaisuudessa blogini tekstin nopeammin. Aika hyvä juttu.
 
-###2020 muutos
-Olen hiljattain siirtänyt sivuston Netlifyn koneelle. Syy oli continuous deployment joka onnistuu nyt siten, että Netlify hakee automaattisesti Githubin muutokset julkaistavaksi, joten nyt päivitys menee yhdellä helpolla komennolla läppäriltäni, esim "now=$(date +"%Y-%m-%d") && git add -A && git commit -m "$now .btn--default:hover inherit" && git push -u  origin master" ja minuutin päästä sivusto on julkistettu päivitettynä.
+### 2020 muutos
+Olen hiljattain siirtänyt sivuston [Netlifyn](https://www.netlify.com/) koneelle. Syy oli continuous deployment joka onnistuu nyt siten, että Netlify hakee automaattisesti Githubin muutokset julkaistavaksi, joten nyt päivitys menee yhdellä helpolla komennolla läppäriltäni, esim "now=$(date +"%Y-%m-%d") && git add -A && git commit -m "$now .btn--default:hover inherit" && git push -u  origin master" ja minuutin päästä sivusto on julkistettu päivitettynä.
 [Lue lisää Jamstackistä](https://medium.com/better-programming/12-tips-for-working-with-the-jamstack-1625fc8e40f)
 
 Netlifyn täyden tehon saamiseksi täytyy sivuston DNS myös siirtää Netlifyn servereille. Olen tähän asti käyttänyt Cloudflarea DNS:ään ja se on ollut kaikin puolin hyvä, mielenkiintoista nähdä mitä muutoksia tulen näkemään.
