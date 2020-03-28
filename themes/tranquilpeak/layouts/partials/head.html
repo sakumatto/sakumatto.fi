@@ -30,12 +30,12 @@
     <meta name="generator" content="Hugo {{ hugo.Version }} with Saku Tranquilpeak 0.4.3-BETA">
     {{ printf "<!--Hugo Build Date: %s-->" hugo.BuildDate | safeHTML }}
     {{ printf "<!--Hugo Commit Hash: %s-->" hugo.CommitHash | safeHTML }}
-    <title>{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{.Site.Title}}{{ end }}</title>
     <meta name="author" content="{{ .Site.Author.name }}">
     <meta name="keywords" content="{{ with .Keywords }}{{ delimit . ", " }}{{ end }}{{ if .Site.Params.keywords }}, {{ delimit .Site.Params.keywords ", " }}{{ end }}">
 
     <link rel="icon" href="{{ with .Site.Params.favicon }}{{ . }}{{ else }}/favicon.png{{ end }}">
-    {{ with .RSSLink }}
+    {{ with .OutputFormats.Get "RSS" }}
       <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ . }}">
     {{ end }}
 
