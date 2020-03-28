@@ -13,5 +13,7 @@ avainsanat:
 Aina maalatessa ja muita sottahommia tehdessä sitä miettii, miten kertakäyttökäsineen saisi itseään sotkematta pois kädestä.
 
 No näin:
+https://youtu.be/TvlbEqTVSLY
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TvlbEqTVSLY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Klikkaa linkkiä yllä
+![Klikkaa linkkiä yllä](https://img.youtube.com/vi/TvlbEqTVSLY/0.jpg)

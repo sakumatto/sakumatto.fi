@@ -26,6 +26,9 @@ canonifyurls = true
 [permalinks]
   post = ":slug/"
 
+[Goldmark]
+  hrefTargetBlank = true
+  
 [taxonomies]
   tag = "avainsanat"
   category = "aihealueet"
