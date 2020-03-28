@@ -45,6 +45,10 @@ Tuossa tulee tuo liposomimuotoisen C-vitamiinin käytön syy kerralla todettua. 
 
 Artikkelin ydin oli siis mitä tehdä, jos tauti iskee? Itse olen päätellyt, että ensimmäinen suojakeino on listani kohdat 1 ja 2 eli muonitus ja mitä syöt, sekä homeopaattinen ennakkolääkintä, mutta jos noista huolimatta tulisi oireita, ottaisin raa´asti kunnon OD:t C-vitamiinia parin päivän ajan ja katsoisin mitä tapahtuu. Jos kiinalaisten arviot pitävät paikkansa, lievissä oireissa tuollainen neljä tai viisi pussia Nordaidin ceetä tuottaisi 4000–5000mg annostuksellaan kohtuullisen oikean määrän minun kokoiselleni. Laatikossa on 60 pussia tavaraa odottamassa käyttöään, joten tuolla määrällä vaimon kanssa saisimme todennäköisesti ensiketjun helpotusta viikoksi.
 
+> Seuraava osa kirjoitetaan hetken kuluttua
+
+[Pisaratartunnalta suojautuminen](https://www.youtube.com/watch?v=I7hYoZeB5Yc)
+
 Lähteitä tähän pohdintaan:
 --------------------------
 [Tämä sivu selvittää juurta jaksaen mikä olisi hyvä liposomi C-vitamiinin valinta, esim Covid-19 hoitoon](https://coremedscience.com/blogs/wellness/how-to-pick-the-best-liposomal-vitamin-c)
