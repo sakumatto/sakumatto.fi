@@ -1010,7 +1010,7 @@ color:#bbc4c9!important;border:1px solid #bbc4c9;cursor:not-allowed;text-decorat
 color:#9eabb3!important;border:1px solid #9eabb3}
 
 .btn--default:hover{
-color:#738691!important;border:1px solid #738691}
+color:#inherit!important;border:1px solid #738691}
 
 .btn--success{
 color:#4dc657!important;border:1px solid #4dc657}
