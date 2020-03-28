@@ -23,4 +23,5 @@ Miksi päättäjämme sekä yritysjohtajamme eivät muuta toimintaansa, kun soke
 
 Meidän itse ja edustajiemme tulee toimia kansan edun hyväksi konsensuksen keinoin. Vain olemalla valmis myönnytyksiin ja todelliseen oikeudenmukaisuuteen tähtääviin ratkaisuihin, voimme ratkaista nykyiset ongelmamme ja varsinkin yhteiskunnan monimutkaistumisen johdosta eteemme tulevat huomisen haasteet.
 
+
 [Blogiin](/blogi/)

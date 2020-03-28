@@ -35,7 +35,7 @@ $(document).ready(function() {
     {{ if .Site.DisqusShortname }}
       <script>
         var disqus_config = function () {
-          this.page.url = '{{ .Permalink }}';
+          this.Permalink = '{{ .Permalink }}';
           {{ if .Params.disqusIdentifier }}
             this.page.identifier = '{{ .Params.disqusIdentifier }}';
           {{ else }}
