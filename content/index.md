@@ -2,7 +2,7 @@
 title: Sakun kotisivu
 author: saku
 type: post
-date: 2021-09-01T18:30:01+00:00
+# date: 2021-09-01T18:30:01+00:00
 
 
 
@@ -11,7 +11,7 @@ aihealueet:
 avainsanat:
 
 ---
-[Blogiin](/blogi/)
+#### [Blogiin](/blogi/)
 
 Uusi todellisuus, joka on jokaisen arkitajuntaa vuonna 2021, on muuttanut meidän jokaisen elämää jollain tavalla. Korona on, toisin kuin vuoden 2019 suurin aihe, ilmastonmuutoksen uhka, ollut nopea ja läpileikkaava voima, jonka torjuntaan on löytynyt rahaa kymmeniä miljardeja pelkästään Suomessa. Miksi näin suuri ero toiminnassa kun kuitenkin ilmastonmuutoksen kuolleisuusprosentti on lähes sata ja koronan hengissäpysymisprosentti on lähes sata? Uusi ja vajaa ymmärrys vaikutuksista nopeassa aikataulussa tuntuisi selittävän asiaa.
 
@@ -35,4 +35,4 @@ Päästäksemme uuden tielle, meidän on ensin ymmärrettävä, että koska ihmi
 
 Koska näin on, ei ole mitään jakolinjoja. Ei ole minun oikeutta, joka olisi erotettavissa sinun oikeuksistasi. Ei ole mitään todellista perustetta miksi kellään saisi olla enempää kuin mitä hänelle yksilönä on tarpeen, eikä perustetta miksi hänelle ei tulisi antaa niin paljon kuin hänelle yksilönä on tarpeen. On olemassa vain yksi tasapainon tila ja siihen ihmiskunnan pitää pyrkiä. Tuohon tasapainon tilaan ei siten siis myöskään kuulu eliitin varallisuuden kasvattaminen ja etuoikeuksien ulosmittaaminen muiden kustannuksella.
 
-[Blogiin](/blogi/)
+> Voit lukea muita kirjoituksiani vuosien varrelta tuolta >> [Blogiin](/blogi/)
